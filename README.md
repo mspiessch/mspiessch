@@ -1,4 +1,8 @@
 ### Hi there 👋
+<a href="https://github.com/mspiessch" style="width: 100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mspiessch&show_icons=true&theme=radical" alt="" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspiessch&layout=compact&theme=radical" alt="" height="150px"/>
+</a>
 
 <!--
 **mspiessch/mspiessch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
