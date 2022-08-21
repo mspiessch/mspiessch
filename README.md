@@ -8,7 +8,7 @@
   <br>🔸 Languages - Typescript, Python, PHP, Go
   <br>🔸 Tools - Docker, Kubernetes, Ansible, Terraform
 <p>
-<span style="width: 100%; display: flex;">
+<a href="https://github.com/mspiessch" style="width: 100%; display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=mspiessch&show_icons=true&theme=radical" alt="" height="130px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspiessch&layout=compact&theme=radical" alt="" height="130px"/>
 
