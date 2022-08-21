@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-<span style="width: 100%">
-<img src="https://github-readme-stats.vercel.app/api?username=mspiessch&show_icons=true&theme=radical" alt="" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspiessch&layout=compact&theme=radical" alt="" height="150px"/>
+<h2>🥇 Specialised in</h2>
+<p>
+  🔸 Fullstack Web Engineering
+  <br>🔸 FrontEnd - Vue.js, Nuxt3
+  <br>🔸 BackEnd - Node, Express, FastApi
+  <br>🔸 Languages - Typescript, Python, PHP, Go
+  <br>🔸 Tools - Docker, Kubernetes, Ansible, Terraform
+<p>
+<span style="width: 100%; display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mspiessch&show_icons=true&theme=radical" alt="" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspiessch&layout=compact&theme=radical" alt="" height="150px"/>
 
 </span>
 
