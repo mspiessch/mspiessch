@@ -4,7 +4,7 @@
 <p>
   🔸 Fullstack Web Engineering
   <br>🔸 FrontEnd - Vue.js, Nuxt3
-  <br>🔸 BackEnd - Node, Express, FastApi
+  <br>🔸 BackEnd - Node, NestJs, FastApi
   <br>🔸 Languages - Typescript, Python, PHP, Go
   <br>🔸 Tools - Docker, Kubernetes, Ansible, Terraform
 <p>
