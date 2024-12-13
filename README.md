@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>🥇 Specialised in</h2>
+<h2>Specialised in</h2>
 <p>
   🔸 Fullstack Web Engineering
   <br>🔸 FrontEnd - Vue.js, Nuxt3
